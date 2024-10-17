@@ -126,5 +126,5 @@ clearButton.addEventListener('click', () => {
 
 continueButton.addEventListener('click', () => {
     saveInput();
-    window.location.href = 'file:///Users/tijevandeursen/Desktop/RANKIEPANKIE/choice.html';
+    window.location.href = 'choice.html';
 });
