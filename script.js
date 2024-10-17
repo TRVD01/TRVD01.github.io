@@ -126,5 +126,6 @@ clearButton.addEventListener('click', () => {
 
 continueButton.addEventListener('click', () => {
     saveInput();
-    window.location.href = 'trvd01.github.io/choice.html';
+    console.log('test');
+    window.location.href = '/choice.html';
 });
