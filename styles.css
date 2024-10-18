@@ -212,3 +212,7 @@ animation: fadeInOut 0.1s;
 .sorted .close-btn:hover {
     color: #ff0000;
 }
+
+#result {
+    display: none;
+}

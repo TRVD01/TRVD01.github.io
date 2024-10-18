@@ -110,6 +110,8 @@ function displaySortedList(sortedList) {
 
         resultDiv.appendChild(input);
     });
+
+    document.getElementById("result").style.display = "block";
 }
 
 // Event listener for DOM content loaded
